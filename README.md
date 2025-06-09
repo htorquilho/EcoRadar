@@ -30,7 +30,7 @@ A proposta do app é **conectar cidadãos conscientes com locais e serviços amb
 
 ## 🧠 Equipe de Desenvolvimento
 
-Projeto desenvolvido na disciplina de **Prática em Desenvolvimento de Apps* do curso de **Engenharia de Software**.
+Projeto desenvolvido na disciplina de **Prática em Desenvolvimento de Apps** do curso de **Engenharia de Software**.
 
 > 💡 Este repositório representa a aplicação prática dos conhecimentos adquiridos ao longo do semestre, com foco em desenvolvimento colaborativo e resolução de problemas reais com tecnologia.
 
